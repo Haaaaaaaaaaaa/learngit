@@ -6,3 +6,5 @@
 >>>>>>> feature1
 
 我要测试--no--ff
+
+我编辑了这个文件，目前还不能add和commit
