@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-222haha
->>>>>>> 0ba53941cdcb4ab6b4004f0e49987eb3e1f4e841
-111haha
-dev提交1
-dev提交2
-=======
-master提交1
-master提交2
->>>>>>> master
+
