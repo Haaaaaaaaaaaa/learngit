@@ -1,3 +1,4 @@
+我是issue-102
 <<<<<<< HEAD
 创建了一个dev分支，我就是dev分支,我是master分支。
 
@@ -6,3 +7,4 @@
 >>>>>>> feature1
 我是issue-101:我来修改bug
 我要测试--no--ff
+
